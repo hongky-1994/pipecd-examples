@@ -1,5 +1,5 @@
 apiVersion: pipecd.dev/v1beta1
-kind: KubernetesApp
+kind: Application
 spec:
   name: simple-piped-v1
   plugins:
