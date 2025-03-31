@@ -1,7 +1,7 @@
 apiVersion: pipecd.dev/v1beta1
 kind: Application
 spec:
-  name: analysis-by-http
+  name: analysis-by-http-piped-v1
   plugins:
     - kubernetes
   labels:
